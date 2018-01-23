@@ -10,7 +10,7 @@ namespace UnitTestProject1.UnitTest
         [TestMethod]
         public void ShouldPass_GetsTwonumber_SumsThemCorrectly()
         {
-            // Prepare
+            // Arrange
             Test_Class number = new Test_Class(12,10);
             // Act
             var num = number.Num1 + number.Num2;
