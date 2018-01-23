@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 //Seung-Hee added this line. 
+//Seung-Hee added another line. 
 [assembly: AssemblyTitle("NewTestSoftware.UI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
