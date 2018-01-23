@@ -54,9 +54,9 @@
   <!-- MSTest adapter -->  
   <MSTest>  
     <MapInconclusiveToFailed>True</MapInconclusiveToFailed>  
-    <CaptureTraceOutput>false</CaptureTraceOutput>  
+    <CaptureTraceOutput>True</CaptureTraceOutput>  
     <DeleteDeploymentDirectoryAfterTestRunIsComplete>False</DeleteDeploymentDirectoryAfterTestRunIsComplete>  
-    <DeploymentEnabled>False</DeploymentEnabled>  
+    <DeploymentEnabled>True</DeploymentEnabled>  
     <AssemblyResolution>  
       <Directory path="D:\myfolder\bin\" includeSubDirectories="false"/>  
     </AssemblyResolution>  
